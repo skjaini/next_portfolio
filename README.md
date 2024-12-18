@@ -1,11 +1,4 @@
 
-   <h4 align="center">
-     This Portfolio was built off the base code of the following <a href="https://github.com/adrianhajdin/portfolio" target="_blank"><b>repositroy</b></a>. Credit and Recognition to JavaScript Mastery and their excellent tutorial. 
-    </h4>
-    <p>
-A Big Thank You to all involved giving me feedback and helping me along the way. <a href="https://github.com/surrenity">Surren</a> for the help getting my deployment variables set up.<br/>
-</p>
-
 
 ### Next JS Portfolio - [view live](https://joeoverflowcode.github.io/next_portfolio/)
 
